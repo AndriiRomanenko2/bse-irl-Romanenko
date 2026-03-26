@@ -1,0 +1,26 @@
+# Compiled Object/Library files
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Build and Executable files
+build/
+Build/
+*.exe
+*.out
+Makefile
+
+# CMake and IDE files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+.vs/
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
